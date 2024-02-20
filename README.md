@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbayomiOye
+- 👋 Hi, I’m Oyebode Abayomi
 - 👀 I’m interested in product management 
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on tech startup projects for Africa 
