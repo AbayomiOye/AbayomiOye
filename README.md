@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oyebode Abayomi
 - 👀 I’m interested in product management 
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on tech startup projects for Africa 
-- 📫 How to reach me oyebodea@gmail.com
+- 💞️ I’m looking to collaborate on tech startup projects around the world
+- 📫 How to reach me: oyebodea@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
